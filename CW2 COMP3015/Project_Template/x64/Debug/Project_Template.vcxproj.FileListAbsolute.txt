@@ -4,3 +4,5 @@ C:\Dependencies\NEW PROJECT SHADOWS\Project_Template\x64\Debug\Project_Template.
 C:\Dependencies\NEW PROJECT SHADOWS\Project_Template\x64\Debug\Project_Template.pdb
 C:\Dependencies\CW2 COMP3015\Project_Template\x64\Debug\Project_Template.exe
 C:\Dependencies\CW2 COMP3015\Project_Template\x64\Debug\Project_Template.pdb
+C:\Dependencies\CW2 COMP3015\COMP3015\CW2 COMP3015\Project_Template\x64\Debug\Project_Template.exe
+C:\Dependencies\CW2 COMP3015\COMP3015\CW2 COMP3015\Project_Template\x64\Debug\Project_Template.pdb
